@@ -21,7 +21,7 @@ O conjunto de dados utilizado neste projeto é proveniente do "A Countrywide Tra
 ## 🚀 Como executar
 
 1. Clone o repositório:
-git clone https://github.com/seu_usuario/tcc-traffic-accidents.git
+git clone https://github.com/williamsasaki/tcc-pucminas/blob/main/ml_acidentes_tcc.ipynb 
 cd tcc-traffic-accidents
 
 ## 📩 Contato
